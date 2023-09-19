@@ -1,1 +1,1 @@
-# IntelliJ_IDEA_Setting
+# Настройки IntelliJ IDEA
