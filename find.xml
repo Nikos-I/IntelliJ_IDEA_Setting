@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'java-junior-20231122'" />
-    <option name="defaultScopeName" value="Module 'java-junior-20231122'" />
-    <option name="SEARCH_SCOPE" value="Module 'java-junior-20231122'" />
+    <option name="customScope" value="Project 'springHW2'" />
+    <option name="defaultScopeName" value="Project 'springHW2'" />
+    <option name="SEARCH_SCOPE" value="Project 'springHW2'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
